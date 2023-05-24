@@ -9,7 +9,10 @@ export { default as ImgSuporte } from '../assets/Suporte.png';
 export { default as ImgDispenserRemoveBg } from '../assets/DispenserCaixaRemovebg.png';
 export { default as ImgDispenserInside } from '../assets/DispenserInside.jpg';
 export { default as ImgDispenserArea } from '../assets/DispenserArea.jpg';
-export { default as ImgReports } from '../assets/Reports.jpg';
 export { default as ImgBigBuy } from '../assets/BIGcompra.png';
 export { default as ImgTruck } from '../assets/social/truck_icon.png';
 export { default as ImgLogo } from '../assets/Logo.png';
+export { default as ImgConversa01 } from '../assets/conversa-01.png';
+export { default as ImgConversa02 } from '../assets/conversa-02.jpg';
+
+

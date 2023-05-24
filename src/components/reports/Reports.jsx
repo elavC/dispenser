@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Wrapper, Container } from './styled';
 
-import { CardReports, ImgReports } from '../exports';
+import { CardReports, ImgConversa01, ImgConversa02  } from '../exports';
 
 import Slider from "react-slick";
 
@@ -45,12 +45,12 @@ function Reports() {
     <Wrapper>
       <Container>
         <Slider {...settings}>
-          <CardReports photo={ImgReports}/>
-          <CardReports photo={ImgReports}/>
-          <CardReports photo={ImgReports}/>
-          <CardReports photo={ImgReports}/>
-          <CardReports photo={ImgReports}/>
-          <CardReports photo={ImgReports}/>
+          <CardReports photo={ImgConversa02}/>
+          <CardReports photo={ImgConversa01}/>
+          <CardReports photo={ImgConversa02}/>
+          <CardReports photo={ImgConversa01}/>
+          <CardReports photo={ImgConversa02}/>
+          <CardReports photo={ImgConversa01}/>
         </Slider>
       </Container>
     </Wrapper>
