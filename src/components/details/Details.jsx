@@ -38,39 +38,27 @@ function Details() {
     <Wrapper>
         <Title>Dúvidas Frequentes</Title>
         <MoreInfo>
-            <Summary>Mais informações.</Summary>
+            <Summary>Em quanto tempo meu Dispenser chega?.</Summary>
             <Info>
-                Lorem ipsum dolor, sit amet consectetur 
-                adipisicing elit. Impedit 
-                reprehenderit et culpa provident 
-                nemo atque odit natus itaque.
+                Caso, você seja de Belém-PA ou Ananindeua-PA, 
+                seu dispenser chega em até 2 dias úteis. 
+                Caso você seja de outra região, o prazo é 
+                de acordo com os correios.
             </Info>
         </MoreInfo>
         <MoreInfo>
-            <Summary>Mais informações.</Summary>
+            <Summary>Preciso furar a parede para instalar?</Summary>
             <Info>
-                Lorem ipsum dolor, sit amet consectetur 
-                adipisicing elit. Impedit 
-                reprehenderit et culpa provident 
-                nemo atque odit natus itaque.
+                Não! O dispenser vai com adesivos dupla face
+                de fácil instalação. basta colocar o 
+                adesivo na parte de traz do dispenser 
+                e colocar na parede.
             </Info>
         </MoreInfo>
         <MoreInfo>
-            <Summary>Mais informações.</Summary>
+            <Summary>Quantas escovas eu posso colocar no porta escova?</Summary>
             <Info>
-                Lorem ipsum dolor, sit amet consectetur 
-                adipisicing elit. Impedit 
-                reprehenderit et culpa provident 
-                nemo atque odit natus itaque.
-            </Info>
-        </MoreInfo>
-        <MoreInfo>
-            <Summary>Mais informações.</Summary>
-            <Info>
-                Lorem ipsum dolor, sit amet consectetur 
-                adipisicing elit. Impedit 
-                reprehenderit et culpa provident 
-                nemo atque odit natus itaque.
+                O porta escova tem entrada para até 5 escovas de dentes.
             </Info>
         </MoreInfo>
     </Wrapper>
