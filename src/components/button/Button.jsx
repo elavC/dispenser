@@ -20,7 +20,7 @@ export const Btn = styled.a `
 
 function Button(props) {
   return (
-    <Btn>{ props.content }</Btn>
+    <Btn href="https://dispenser-one.catalog.yampi.io/dispneser-com-porta-escova/p">{ props.content }</Btn>
   )
 }
 
