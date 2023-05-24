@@ -28,12 +28,12 @@ export const Container = styled.div `
     align-content: center;
     justify-items: center;
 
-    @media (max-width: 550px) {
-        grid-template-columns: 1fr;
-    }
-
     @media (max-width: 900px) {
         grid-template-columns: 1fr 1fr;
+    }
+
+    @media (max-width: 550px) {
+        grid-template-columns: 1fr;
     }
 `;
 

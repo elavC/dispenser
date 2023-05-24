@@ -15,7 +15,10 @@
     "styled-reset": "^4.4.7",
     "web-vitals": "^2.1.0"
   },
+  "homepage": "https://elavc.github.io/dispenser",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -38,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
