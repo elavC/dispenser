@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dispenser/static/css/main.43154927.css",
-    "main.js": "/dispenser/static/js/main.b50250c6.js",
+    "main.js": "/dispenser/static/js/main.b14b1b54.js",
     "static/media/videoDispenser.mp4": "/dispenser/static/media/videoDispenser.212da59d990b2fb75a5f.mp4",
     "static/media/Suporte.png": "/dispenser/static/media/Suporte.4e8b3807315de61500c2.png",
     "static/media/dispenserAberto.png": "/dispenser/static/media/dispenserAberto.51a8e2315f3db59b4909.png",
@@ -14,10 +14,10 @@
     "static/media/truck_icon.png": "/dispenser/static/media/truck_icon.40e33346a8317958d81f.png",
     "index.html": "/dispenser/index.html",
     "main.43154927.css.map": "/dispenser/static/css/main.43154927.css.map",
-    "main.b50250c6.js.map": "/dispenser/static/js/main.b50250c6.js.map"
+    "main.b14b1b54.js.map": "/dispenser/static/js/main.b14b1b54.js.map"
   },
   "entrypoints": [
     "static/css/main.43154927.css",
-    "static/js/main.b50250c6.js"
+    "static/js/main.b14b1b54.js"
   ]
 }
